@@ -1,0 +1,7 @@
+Congratulations!
+
+Your Ansible role for motd worked.  Now update your
+/etc/ansible/roles/motd/files/default_motd to customize this message to your
+needs.
+
+This role has been written to test the Ansible role run on a host.

@@ -1,0 +1,5 @@
+---
+# tasks file for motd
+#
+- name: check or create /etc/motd
+  copy: src=default_motd dest=/etc/motd
